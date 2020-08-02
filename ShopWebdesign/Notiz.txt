@@ -1,0 +1,95 @@
+Header: 
+div
+a
+img
+
+nav
+ul
+li 3x
+input search
+
+li 2x
+
+[fehlt: Sprachauswahl]
+
+
+MONUMENT DELUXE:
+img
+h1 (font: Gruppo)
+a (Exklusiv hier)
+img (Exklusiv hier)
+img (schwarz: hover: deckkraft runter)
+
+Schuhe:
+
+img (Schuh groß)
+a,img (schuh klein)
+h2 (font: Bebas Neue)
+p (Beschreibung)
+a (Jetzt kaufen)
+img 2x (wie oben)
+
+LdS:
+
+h2 (font: Bebas Neue)
+p  (Beschreibung)
+a (Jetzt kaufen)
+img 2x (wie oben)
+a,img (Pullover-klein)
+img (Studio-groß)
+
+Beanies:
+
+img (Schneelandschaft-groß)
+a,img (Beanie-klein)
+h2 (font: Bebas Neue)
+p (Beschreibung)
+a (Jetzt kaufen)
+img 2x (wie oben)
+
+Footer:
+
+Up2date:
+
+h3 (font: Bebas Neue)
+a (Für Newsletter anmelden)
+img 2x (wie oben, aber neu)
+
+Register:
+
+div
+ul 5x
+li (viele)
+
+Main-Footer:
+
+ol
+li (Cookie-Einstellungen)
+a
+::after (|)
+
+ol
+|
+li (Datenschutz-Center)
+|
+li (Cookies)
+|
+li(Datenschutzerklärung)
+|
+li (Bedingungen)
+
+p (ThisisDodi)
+
+
+
+twitch
+yahoo
+Bing
+Wikipedia
+amazon
+ebay
+reddit
+spiegel
+adidas
+puma
+nike

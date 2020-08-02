@@ -1,0 +1,52 @@
+Header
+div
+a (Link)
+img (Bild)
+
+nav (Navigator)
+ul (unordered list)
+4x li (Listitems)
+
+
+Home
+
+h1 (Überschrift)
+h2
+a
+img
+
+
+About
+
+h3
+hr (Linie)
+img
+h4
+p (Paragraphtag [Text])
+
+
+Work
+
+h3
+hr
+
+div
+ul
+6x li 6x a 6x img
+
+
+Contact
+
+h3
+hr
+
+form
+input
+input
+textarea
+input button
+
+
+Footer
+
+p
